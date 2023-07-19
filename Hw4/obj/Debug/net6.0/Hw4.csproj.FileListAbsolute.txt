@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\GB\С#\2\Hw4\bin\Debug\net6.0\Hw4.exe
+C:\Users\ASUS\Desktop\GB\С#\2\Hw4\bin\Debug\net6.0\Hw4.deps.json
+C:\Users\ASUS\Desktop\GB\С#\2\Hw4\bin\Debug\net6.0\Hw4.runtimeconfig.json
+C:\Users\ASUS\Desktop\GB\С#\2\Hw4\bin\Debug\net6.0\Hw4.dll
+C:\Users\ASUS\Desktop\GB\С#\2\Hw4\bin\Debug\net6.0\Hw4.pdb
+C:\Users\ASUS\Desktop\GB\С#\2\Hw4\obj\Debug\net6.0\Hw4.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\GB\С#\2\Hw4\obj\Debug\net6.0\Hw4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\GB\С#\2\Hw4\obj\Debug\net6.0\Hw4.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\GB\С#\2\Hw4\obj\Debug\net6.0\Hw4.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\GB\С#\2\Hw4\obj\Debug\net6.0\Hw4.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\GB\С#\2\Hw4\obj\Debug\net6.0\Hw4.dll
+C:\Users\ASUS\Desktop\GB\С#\2\Hw4\obj\Debug\net6.0\refint\Hw4.dll
+C:\Users\ASUS\Desktop\GB\С#\2\Hw4\obj\Debug\net6.0\Hw4.pdb
+C:\Users\ASUS\Desktop\GB\С#\2\Hw4\obj\Debug\net6.0\Hw4.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\GB\С#\2\Hw4\obj\Debug\net6.0\ref\Hw4.dll
